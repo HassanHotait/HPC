@@ -7,6 +7,7 @@ Remove all the dependency lines, i.e.
 
 main.o: main.c data.h io.h
 data.o: ...
+
 ...
 
 from your Makefile.
